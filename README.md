@@ -1,1 +1,1 @@
-# HVA_hackathon_1
+#Explore a dataset from Kaggle featuring the top 1000 movies and TV shows from IMDB. The focus of this challenge is to utilize your skills in SQL and Power BI to process, analyze, and visually present meaningful insights derived from the dataset
